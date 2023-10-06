@@ -1,0 +1,5 @@
+C:\Users\comp0713\Desktop\Salon_Krasoti-main\obj\Debug\net6.0-windows\Салон красоты.csproj.AssemblyReference.cache
+C:\Users\comp0713\Desktop\Salon_Krasoti-main\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\comp0713\Desktop\Salon_Krasoti-main\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\comp0713\Desktop\Salon_Krasoti-main\obj\Debug\net6.0-windows\Салон красоты_MarkupCompile.cache
+C:\Users\comp0713\Desktop\Salon_Krasoti-main\obj\Debug\net6.0-windows\Салон красоты_MarkupCompile.lref
